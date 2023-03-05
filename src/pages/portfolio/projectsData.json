@@ -1,0 +1,70 @@
+[
+  {
+    "title": "IPFS Dapp",
+    "image": "./projectImages/ipfs.JPG",
+    "description": "I developed this using Next.js. User can upload the file directly to IPFS from here. Just upload the file and you will get the CID.",
+    "deployed": "https://ipfs-dapp-wine.vercel.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "NFT Gallery",
+    "image": "./projectImages/gallery.JPG",
+    "description": "Check the Nfts in your wallets or any other wallet. You can also check different collections by just entering the contract address...",
+    "deployed": "https://gallery-gamma-bay.vercel.app/",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Minting site",
+    "image": "./projectImages/mint.JPG",
+    "description": "Wanna help build your community? Want to give some benefits to your community? Here is the solution, give them gasless free Nft mint. We used openzeppelin relayer...",
+    "deployed": "https://ipfs-dapp-wine.vercel.app/mint",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+  {
+    "title": "Gated Website",
+    "image": "./projectImages/web-sec.JPG",
+    "description": "Wanna token gate your website? Here explore what we are offering...",
+    "deployed": "https://sign-in-b4xz.vercel.app/",
+    "bgcolor": "#f85781",
+    "id": "4"
+  },
+
+  {
+    "title": "Social Login",
+    "image": "./projectImages/social-login.JPG",
+    "description": "No wallet? No account? No problem we have the solution. Get connected and through Biconomy smart account contract get your wallet address using social login...",
+    "deployed": "https://social-login-snowy.vercel.app/",
+    "bgcolor": "#ffcc33",
+    "id": "5"
+  },
+
+  {
+    "title": "Coupon generator",
+    "image": "./projectImages/coupon1.JPG",
+    "description": "Generate Coupons through smart contract...",
+    "deployed": "https://coupon-generator-ecru.vercel.app/",
+    "bgcolor": "#3e67ff",
+    "id": "6"
+  },
+  {
+    "title": "Mailchain web3 experience",
+    "image": "./projectImages/mailchain1.JPG",
+    "description": "Notify your NFT claimers after claiming their NFT through MailChain...",
+    "deployed": "https://gallery-gamma-bay.vercel.app/",
+    "bgcolor": "#EE82EE",
+    "id": "7"
+  },
+
+  {
+    "title": "Mint with Credit Card",
+    "image": "./projectImages/ww5.JPG",
+    "description": "Want to give your users the service of buying NFTs with credit card??? Here explore this out",
+    "deployed": "https://gallery-gamma-bay.vercel.app/",
+    "bgcolor": "#cd853f",
+    "id": "8"
+  }
+
+]
