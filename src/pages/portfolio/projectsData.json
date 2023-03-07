@@ -46,7 +46,7 @@
     "image": "./projectImages/coupon1.JPG",
     "description": "Generate Coupons through smart contract...",
     "deployed": "https://coupon-generator-ecru.vercel.app/",
-    "bgcolor": "#3e67ff",
+    "bgcolor": "#cd853f",
     "id": "6"
   },
   {
@@ -63,8 +63,17 @@
     "image": "./projectImages/ww5.JPG",
     "description": "Want to give your users the service of buying NFTs with credit card??? Here explore this out",
     "deployed": "https://gallery-gamma-bay.vercel.app/",
-    "bgcolor": "#cd853f",
+    "bgcolor": "#3e67ff",
     "id": "8"
+  },
+  
+  {
+    "title": "Get Subscription with Unlock Protocol",
+    "image": "./projectImages/unlock.JPG",
+    "description": "By utilizing this contract, you can generate NFTs that are time-limited and designed for recurring subscriptions, tickets, token gating, and certifications that have an expiration date. Built on Ethereum, Unlock is an open-source protocol for memberships that function as time-bound NFTs. This platform simplifies the process of obtaining membership benefits for online communities and enables creators to monetize their content without relying on a middleman. With Unlock, integrating subscriptions and memberships into your projects becomes effortless.",
+    "deployed": "https://unlock-protocol.vercel.app/",
+    "bgcolor": "#8fbc8f",
+    "id": "9"
   }
 
 ]
