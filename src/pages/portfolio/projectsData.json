@@ -74,6 +74,14 @@
     "deployed": "https://unlock-protocol.vercel.app/",
     "bgcolor": "#8fbc8f",
     "id": "9"
+  },
+   {
+    "title": "Stake Your Nft",
+    "image": "./projectImages/erc-1155.JPG",
+    "description": "Mint Nft, Stake it and Earn Rewards...",
+    "deployed": "https://staking-erc1155.vercel.app/",
+    "bgcolor": "#e4d1d1",
+    "id": "10"
   }
 
 ]
